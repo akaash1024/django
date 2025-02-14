@@ -1,9 +1,0 @@
-
-django   - notes
-
-
-++++++++++++++++++++++++++++++
-ctrl+, > search "emm" > Find Emmed : Include languages
-
-Items : django-html
-Value : html 
